@@ -14,3 +14,5 @@ Left text field requires a string input to use as a search pattern. Right text f
 ![alt text](https://github.com/jrukavina/FileSearcher/blob/main/figs/search_example.png?raw=true)
 
 Note that search patterns are not case sensitive.
+
+You can open found files by clicking on them, clicking on folders will open them in file explorer.
