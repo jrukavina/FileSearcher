@@ -10,7 +10,7 @@ Left text field requires a string input to use as a search pattern. Right text f
 
 
 
-### Result of search pattern "OBS Studio"
+### Result of search pattern "obs studio"
 ![alt text](https://github.com/jrukavina/FileSearcher/blob/main/figs/search_example.png?raw=true)
 
 Note that search patterns are not case sensitive.
