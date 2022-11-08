@@ -1,7 +1,7 @@
 # FileSearcher
 Simple GUI file searcher/explorer app written in Java.
 
-This project was mainly made to circumvent Widows 10's built-in file explorer which relies on indexing and often misses searched files and folders. FileSearcher will always search files and subfolders in a given folder path. This means that it will always find a searched item (if it exists) at the cost of using more CPU and disk resources.
+This project was mainly made to circumvent Windows 10's built-in file explorer which relies on indexing and often misses searched files and folders. FileSearcher will always search files and subfolders in a given folder path. This means that it will always find a searched item (if it exists) at the cost of using more CPU and disk resources.
 
 ### Base GUI example
 ![alt text](https://github.com/jrukavina/FileSearcher/blob/main/figs/base_gui.png?raw=true)
